@@ -1,5 +1,3 @@
-
-```markdown
 # Intuit Home Assignment - Server
 
 This is the server component for the Intuit home assignment. 
