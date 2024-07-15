@@ -18,8 +18,8 @@ It serves the contents of photographers.json through a REST API.
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/chagitmo/photographers-server.git
+cd photographers-server
 ```
 
 2. Install the dependencies:
